@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="btnScan">Scanner</string>
+    <string name="Title">Try your scanner now!</string>
+    <string name="ClipBoard_Copy">Copy</string>
+    <string name="ClipBoard_Paste">Paste</string>
+</resources>
